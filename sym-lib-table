@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name MK20DX256VLH7_Teensy_3.2_Proc)(type Legacy)(uri C:/Users/Abhigna/OneDrive/Documents/KiCAD_Libs/MK20DX256VLH7_Teensy_3.2_Proc.lib)(options "")(descr ""))
+  (lib (name MK30DX256VLH7)(type Legacy)(uri C:/Users/Abhigna/OneDrive/Documents/KiCAD_Libs/MK30DX256VLH7.lib)(options "")(descr ""))
+  (lib (name MKL02Z32VFG4_Teensy_Boot)(type Legacy)(uri C:/Users/Abhigna/OneDrive/Documents/KiCAD_Libs/MKL02Z32VFG4_Teensy_Boot.lib)(options "")(descr ""))
+  (lib (name 4Pin-Crystal)(type Legacy)(uri C:/Users/Abhigna/OneDrive/Documents/KiCAD_Libs/4Pin-Crystal.lib)(options "")(descr ""))
+  (lib (name Schottky_Diode)(type Legacy)(uri C:/Users/Abhigna/OneDrive/Documents/KiCAD_Libs/Schottky_Diode.lib)(options "")(descr ""))
+  (lib (name Flight_Computer-rescue)(type Legacy)(uri ${KIPRJMOD}/Flight_Computer-rescue.lib)(options "")(descr ""))
+  (lib (name Flight_Computer-eagle-import)(type Legacy)(uri ${KIPRJMOD}/Flight_Computer-eagle-import.lib)(options "")(descr ""))
+)
